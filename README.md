@@ -9,4 +9,26 @@ I created this repository instead of a traditional blog to avoid the extra work 
 
 ### Backlog
 
-* Add at least 10 (linked by subject) tasks to this backlog
+* How to configure PIM groups with Terraform
+* How to evaluate and remediate MG Azure Policy Assignments with Azure DevOps Pipelines
+* How to easily monitor Azure DevOps Pipeline failures
+* How to add permissions to Azure PostgreSQL?
+* How to add permissions to Azure SQL Database?
+* How to reduce cost of Log Analytics Workspace?
+* How to build approvals system with MS Teams?
+* How to detect and process individual file change with Azure DevOps Pipelines?
+* How to provide central backup for Azure Storage Account Files?
+* How to provide central backup for Azure Storage Account Blobs?
+* How to cleanup subscription resources?
+* How to send emails in Azure DevOps pipelines with Powershell and Graph?
+* How to initialize Git repository file with Terraform and ignore its actual lifecycle later?
+* How to provide central Storage Account for TF states with RBAC isolation?
+* How to manager Defender for Cloud exemptions with Terraform?
+* How to add single tag with value vai Terraform?
+* How to setup Management Groups diagnostic settings with Terraform?
+* How to deploy APIM Developer Portal with Terraform?
+* How to deny Event Grid TLS lower than 1.2 via Azure Policy?
+* How to ensure Azure service types cannot be deleted in PROD via Azure Policy, so data can't be deleted?
+* How to ensure Continous backup for Azure Cosmos DB Account via Azure Policy?
+* How to ensure persistence cannot be deleted in PROD via Azure Policy?
+* How to ensure Continous backup for Azure Cosmos DB Account via Azure Policy?
